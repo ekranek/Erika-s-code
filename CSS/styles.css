@@ -1,0 +1,20 @@
+table{border-collapse:collapse;}
+table, td, th{border:1px solid black;}
+/*body{font-family:helvetica, arial; background:#666}*/
+#container {width:700px; height:500px}
+.wrapper {margin:20px auto; width:700px; background-color:white; padding:30px}
+label{margin-right: 0.5em;display: block}
+.submit input{margin-left: 4.5em;} 
+#time{font-size:50px; text-align:center;background: #006064;padding:20px; color:#5dc8cd}
+
+.button_wrap{position:relative;width:225px;height:36px;overflow:hidden;font-weight:700;font-size:11px;margin:10px}
+.button_aLeft{width:70px;height:36px;-moz-border-radius:20px;-webkit-border-radius:20px;background-color:#093d6f;color:#fff;top:0;right:0;position:absolute;line-height:36px;text-align:left}
+.button_aLeft span{display:none;padding-left:20px}
+.button_bLeft{width:64px;height:30px;background-color:#fff;-moz-border-radius:20px;-webkit-border-radius:20px;color:#000;position:absolute;top:3px;right:3px;text-transform:uppercase;line-height:30px;text-align:center;cursor:pointer}
+.button_bLeft span{color:#008ddd}
+.button_aRight{width:70px;height:36px;-moz-border-radius:20px;-webkit-border-radius:20px;background-color:#093d6f;color:#fff;top:0;left:0;position:absolute;line-height:36px;text-align:right}
+.button_aRight span{display:none;padding-right:20px}
+.button_bRight{width:64px;height:30px;background-color:#fff;-moz-border-radius:20px;-webkit-border-radius:20px;color:#000;position:absolute;top:3px;left:3px;text-transform:uppercase;line-height:30px;text-align:center;cursor:pointer}
+.button_bRight span{color:#008ddd}
+.button_c{background-color:#008ddd;color:#fff;text-transform:uppercase}
+.button_c span{color:#093d6f}
